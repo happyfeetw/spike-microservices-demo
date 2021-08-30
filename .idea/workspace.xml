@@ -23,7 +23,7 @@
         <entry key="$PROJECT_DIR$/spike-microservices-demo" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spike-microservices-demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -71,7 +71,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -192,7 +192,7 @@
       <updated>1629783159776</updated>
       <workItem from="1629783161299" duration="24906000" />
       <workItem from="1630002596289" duration="393000" />
-      <workItem from="1630003180361" duration="10712000" />
+      <workItem from="1630003180361" duration="11950000" />
     </task>
     <servers />
   </component>
@@ -209,6 +209,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spike-microservices-demo" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
