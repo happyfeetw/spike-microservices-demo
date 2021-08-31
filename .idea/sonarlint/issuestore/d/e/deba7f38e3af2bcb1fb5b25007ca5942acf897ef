@@ -1,18 +1,0 @@
-
-7
-java:S1170"!Make this final field static too.(•Ì‡¨
-Q	java:S125>"<This block of commented-out lines of code should be removed.(öÊ‚û
-Z
-java:S1128"=Remove this unused import 'io.vertx.ext.web.codec.BodyCodec'.(ˆâéæ8 š”¹·/
-e
-java:S11929"JDefine a constant instead of duplicating this literal "localhost" 4 times.(‚Ä³úÿÿÿÿ
-x
-java:S11925"]Define a constant instead of duplicating this literal "Hello from RouterHttpServer." 4 times.(Ñ½¾Ùøÿÿÿÿ
-g
-java:S1192W"LDefine a constant instead of duplicating this literal "Greetings: " 3 times.(ëÄð²ýÿÿÿÿ
-c
-java:S11924"MDefine a constant instead of duplicating this literal "content-type" 4 times.(À¯ÿÌ
-‡
-java:S11922"lDefine a constant instead of duplicating this literal "Receiving request, absoluteURI: {}, uri: {}" 4 times.(ã¼†äüÿÿÿÿ
-a
-java:S11924"KDefine a constant instead of duplicating this literal "text/plain" 4 times.(À¯ÿÌ
