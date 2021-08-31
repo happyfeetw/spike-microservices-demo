@@ -51,6 +51,7 @@ public class BrokerWebSocketHandler implements Handler<ServerWebSocket> {
 
         LOGGER.info("A new periodic timer has been set, timer id: {}" , timerId);
         // todo overrided timerId. need to be seperated.
+        // timer is attached to specific event_loop
         context.put("timerId",timerId);
         socket.closeHandler(new ServerSocketCloseHandler(vertx));
     }
