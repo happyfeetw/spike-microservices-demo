@@ -1,0 +1,7 @@
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/verticles/server/BasicHttpServerVerticle.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/MainVerticel.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/entity/User.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/verticles/client/HttpClientVerticle.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/TTT.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/verticles/handler/DemoRequestRoutingHandler.java
+/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-service-c/src/main/java/com/spike/demo/verticles/server/RouterHttpServerVerticle.java

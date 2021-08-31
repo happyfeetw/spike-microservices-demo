@@ -1,0 +1,7 @@
+com/spike/demo/verticles/server/BasicHttpServerVerticle.class
+com/spike/demo/verticles/server/RouterHttpServerVerticle.class
+com/spike/demo/TTT.class
+com/spike/demo/verticles/handler/DemoRequestRoutingHandler.class
+com/spike/demo/verticles/client/HttpClientVerticle.class
+com/spike/demo/MainVerticel.class
+com/spike/demo/entity/User.class
