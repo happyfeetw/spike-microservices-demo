@@ -1,8 +1,0 @@
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/handler/BrokerWebSocketHandler.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/DemoMainVerticle.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/server/BrokerWsServerVerticle.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/handler/ServerSocketCloseHandler.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/handler/WebSocketTextMessageHandler.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/core/CyclicBuffer.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/client/WebSocketClientVerticle.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-websocket-vertx/src/main/java/com/spike/broker/BrokerMainVerticle.java

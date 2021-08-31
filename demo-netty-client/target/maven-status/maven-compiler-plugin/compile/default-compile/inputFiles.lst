@@ -1,6 +1,0 @@
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/encoder/RequestDataEncoder.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/decoder/ResponseDecoder.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/model/RequestData.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/handler/ClientHandler.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/NettyClient.java
-/Users/wangxinduo/Development/Projects/Java/personal/spike-microservices-demo/demo-netty-client/src/main/java/com/spike/demo/netty/client/model/ResponseData.java
