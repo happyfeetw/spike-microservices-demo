@@ -17,6 +17,7 @@
         <module>demo-cola-web</module>
         <module>demo-cola-service</module>
         <module>demo-netty-client</module>
+        <module>demo-service-b-feignclient-api</module>
     </modules>
 
     <properties>
